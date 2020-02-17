@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/nkproject/static/css/main.62c51538.chunk.css",
+    "main.js": "/nkproject/static/js/main.bb4a0830.chunk.js",
+    "main.js.map": "/nkproject/static/js/main.bb4a0830.chunk.js.map",
+    "runtime-main.js": "/nkproject/static/js/runtime-main.1f01f6df.js",
+    "runtime-main.js.map": "/nkproject/static/js/runtime-main.1f01f6df.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/nkproject/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.a7cc56e9.chunk.js": "/nkproject/static/js/2.a7cc56e9.chunk.js",
+    "static/js/2.a7cc56e9.chunk.js.map": "/nkproject/static/js/2.a7cc56e9.chunk.js.map",
+    "index.html": "/nkproject/index.html",
+    "precache-manifest.3030797284e42a68253d6009d4d52601.js": "/nkproject/precache-manifest.3030797284e42a68253d6009d4d52601.js",
+    "service-worker.js": "/nkproject/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/nkproject/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.62c51538.chunk.css.map": "/nkproject/static/css/main.62c51538.chunk.css.map",
+    "static/js/2.a7cc56e9.chunk.js.LICENSE.txt": "/nkproject/static/js/2.a7cc56e9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1f01f6df.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.a7cc56e9.chunk.js",
+    "static/css/main.62c51538.chunk.css",
+    "static/js/main.bb4a0830.chunk.js"
+  ]
+}
